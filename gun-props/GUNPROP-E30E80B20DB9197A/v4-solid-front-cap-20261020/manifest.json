@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "provider": "github_raw",
+  "repository": "mcdeivis/savex-public-product-images",
+  "branch": "main",
+  "sku": "GUNPROP-E30E80B20DB9197A",
+  "version": "v4-solid-front-cap-20261020",
+  "images": [
+    {
+      "position": 1,
+      "filename": "01-main-angle-solid-orange-cap.png",
+      "sha256": "15bcac87244c3c1fa0b11fafae1e198102be3350bb54c28b13064b508b51dc8f",
+      "bytes": 3146329,
+      "width": 1254,
+      "height": 1254,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-E30E80B20DB9197A/v4-solid-front-cap-20261020/01-main-angle-solid-orange-cap.png"
+    },
+    {
+      "position": 2,
+      "filename": "02-rear-angle-partial-muzzle-solid-orange-cap.png",
+      "sha256": "81d2ff34b20f5573f0ed7699e4de7f0c1147ebf6c4a355f24623ce2d76371149",
+      "bytes": 455114,
+      "width": 987,
+      "height": 754,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-E30E80B20DB9197A/v4-solid-front-cap-20261020/02-rear-angle-partial-muzzle-solid-orange-cap.png"
+    },
+    {
+      "position": 3,
+      "filename": "03-front-angle-solid-orange-cap.png",
+      "sha256": "1fa82e80b4941e20fde44735d9c86a4578229cb4fe30b6b9074db21b160cc04a",
+      "bytes": 323865,
+      "width": 782,
+      "height": 682,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-E30E80B20DB9197A/v4-solid-front-cap-20261020/03-front-angle-solid-orange-cap.png"
+    },
+    {
+      "position": 4,
+      "filename": "04-side-angle-partial-muzzle-solid-orange-cap.png",
+      "sha256": "cec7b340e75464f23bc1e127e7681bcb148ede758b7131729d40df86c87f2848",
+      "bytes": 467882,
+      "width": 834,
+      "height": 877,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-E30E80B20DB9197A/v4-solid-front-cap-20261020/04-side-angle-partial-muzzle-solid-orange-cap.png"
+    },
+    {
+      "position": 5,
+      "filename": "05-closeup-original-unchanged.png",
+      "sha256": "430b1b69e1fe9a360ea20c8cdafea65d77dd026359217a9b3f71ba2ef8e51399",
+      "bytes": 665607,
+      "width": 1002,
+      "height": 902,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-E30E80B20DB9197A/v4-solid-front-cap-20261020/05-closeup-original-unchanged.png"
+    }
+  ],
+  "created_at": "2026-10-20T16:57:10.360248+00:00"
+}
