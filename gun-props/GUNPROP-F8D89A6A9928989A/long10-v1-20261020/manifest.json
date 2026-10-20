@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "provider": "github_raw",
+  "repository": "mcdeivis/savex-public-product-images",
+  "branch": "main",
+  "sku": "GUNPROP-F8D89A6A9928989A",
+  "version": "long10-v1-20261020",
+  "images": [
+    {
+      "position": 1,
+      "filename": "01-unchanged-source.jpg",
+      "sha256": "be9778bbc7be1c66fef7f15a4e121a7eb891d5482605b75d67188f1543708c3b",
+      "bytes": 4732524,
+      "width": 5712,
+      "height": 4284,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-F8D89A6A9928989A/long10-v1-20261020/01-unchanged-source.jpg"
+    },
+    {
+      "position": 2,
+      "filename": "02-unchanged-source.jpg",
+      "sha256": "0eff97316853cba306d4ae7bcdbc6c67b80a49127e53339b8bd9b88825a34487",
+      "bytes": 4906804,
+      "width": 5712,
+      "height": 4284,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-F8D89A6A9928989A/long10-v1-20261020/02-unchanged-source.jpg"
+    },
+    {
+      "position": 3,
+      "filename": "03-unchanged-source.jpg",
+      "sha256": "3bdc02e5de3657bf40a9900b271254706cad28e293b63cf274dc3a019bfb067d",
+      "bytes": 5077845,
+      "width": 5712,
+      "height": 4284,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-F8D89A6A9928989A/long10-v1-20261020/03-unchanged-source.jpg"
+    },
+    {
+      "position": 4,
+      "filename": "04-unchanged-source.jpg",
+      "sha256": "39a3f65f04c9f1337263fb8d6abc651771666e1b816cb380f549b7532d52d216",
+      "bytes": 5855007,
+      "width": 5712,
+      "height": 4284,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-F8D89A6A9928989A/long10-v1-20261020/04-unchanged-source.jpg"
+    }
+  ],
+  "created_at": "2026-10-20T19:27:32.760439+00:00"
+}

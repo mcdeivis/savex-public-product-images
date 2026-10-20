@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "provider": "github_raw",
+  "repository": "mcdeivis/savex-public-product-images",
+  "branch": "main",
+  "sku": "GUNPROP-17A1661CBDD33907",
+  "version": "long10-v1-20261020",
+  "images": [
+    {
+      "position": 1,
+      "filename": "01-solid-orange-front-cap.png",
+      "sha256": "dd9db4839e6ff96dfc07cccc9cc5db85801ebf091e9590d5a2904b3f7d0e8112",
+      "bytes": 1858749,
+      "width": 1254,
+      "height": 1254,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-17A1661CBDD33907/long10-v1-20261020/01-solid-orange-front-cap.png"
+    },
+    {
+      "position": 2,
+      "filename": "02-unchanged-source.png",
+      "sha256": "c243670c9374934c6d574256c5af81a45127703abba0794df2eb65ee793f0572",
+      "bytes": 426772,
+      "width": 516,
+      "height": 516,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-17A1661CBDD33907/long10-v1-20261020/02-unchanged-source.png"
+    },
+    {
+      "position": 3,
+      "filename": "03-solid-orange-front-cap.png",
+      "sha256": "8f0501ad6d1f2184c533303826237b8d9a606da873b965584e0bfde989299a23",
+      "bytes": 1837334,
+      "width": 1254,
+      "height": 1254,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-17A1661CBDD33907/long10-v1-20261020/03-solid-orange-front-cap.png"
+    },
+    {
+      "position": 4,
+      "filename": "04-solid-orange-front-cap.png",
+      "sha256": "65087654914dbf525ac8bf287b585077fe020336eb6b5c6823639f273e10fd97",
+      "bytes": 2092020,
+      "width": 1254,
+      "height": 1254,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-17A1661CBDD33907/long10-v1-20261020/04-solid-orange-front-cap.png"
+    },
+    {
+      "position": 5,
+      "filename": "05-unchanged-source.png",
+      "sha256": "e6420a218b84c552afd26336dad0869ff9f046772fdb17c8c778b4e8dcfb0392",
+      "bytes": 445260,
+      "width": 516,
+      "height": 516,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-17A1661CBDD33907/long10-v1-20261020/05-unchanged-source.png"
+    },
+    {
+      "position": 6,
+      "filename": "06-solid-orange-front-cap.png",
+      "sha256": "70c5a6f179e05cd08326b6b9d3c395f2c5daefc65657ddd5f22b0876aa0620c4",
+      "bytes": 2022863,
+      "width": 1254,
+      "height": 1254,
+      "raw_url": "https://raw.githubusercontent.com/mcdeivis/savex-public-product-images/main/gun-props/GUNPROP-17A1661CBDD33907/long10-v1-20261020/06-solid-orange-front-cap.png"
+    }
+  ],
+  "created_at": "2026-10-20T19:27:33.309542+00:00"
+}
